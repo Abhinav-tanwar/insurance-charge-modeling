@@ -1,2 +1,3 @@
-# insurance-charge-modeling
-Regression pipeline and residual diagnostics with explicitly synthetic demonstration data
+# Insurance Charge Modeling
+
+Python analysis project. Input provenance and scope are documented in data/README.md.
