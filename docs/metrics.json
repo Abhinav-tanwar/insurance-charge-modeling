@@ -1,0 +1,11 @@
+{
+  "data_kind": "synthetic demonstration",
+  "rows": 1200,
+  "training_rows": 960,
+  "test_rows": 240,
+  "r2": 0.8758798663957396,
+  "rmse": 3387.5827264668224,
+  "mae": 2659.509259925106,
+  "baseline_rmse": 9674.16144785679,
+  "test_predictions_finite": true
+}
